@@ -1,0 +1,5 @@
+let userage = 18;
+
+userage = 30
+
+document.write(userage)
